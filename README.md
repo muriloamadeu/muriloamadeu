@@ -2,6 +2,8 @@
 
 - 🔭 cursando Engenharia de Software 
 - 😄 Pronouns: ele:dele
+- Soft Skills:Comunicação, Trabalho em equipe, Resolução de problemas, Adaptabilidade, Gestão do tempo
+- Hard Skills:Lógica de Programação, Python, HTML e CSS, Git e GitHub, Banco de Dados SQL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloAmadeu&show_icons=true&theme=dark)
 
